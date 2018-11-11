@@ -1,0 +1,29 @@
+.img-circle{
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+}
+.card{
+	margin-top: 20px;
+    margin-bottom: 20px;
+	background-color: black ;
+}
+.card-title{
+	color: grey;
+
+}
+.progress {
+	color: red;
+}
+.img-fit{
+	width:100%;
+}
+.card-text{
+	color: white;
+}
+.align-right{
+	margin-left: 3px;
+}
+.bottom-margin{
+	margin-bottom: 20px;
+}
